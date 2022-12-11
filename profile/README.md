@@ -8,10 +8,10 @@ Restaurant review data analysis system through Hadoop-ecosystem-based fake revie
 # 담당파트
 |파트|담당|이름|
 |:---:|:---:|:---:|
-|NLP, preprocessing|AWS, Apache Spark|김선민|
-|NLP, preprocessing|Apache Spark, Sqoop|김현중|
-|NLP, post-processing|Apache Mapreduce, Sqoop|권재성|
-|NLP, post-processing, visualization|Apache Spark, Hive, Zeppelin|조형서|
+|Crawling, preprocessing|AWS, Python|김선민|
+|NLP, visualization, preprocessing|Apache Spark, Zeppelin|김현중|
+|Database, post-processing|MySQL, Apache Sqoop|권재성|
+|NLP, visualization, automation|Apache Spark, Zeppelin, oozie|조형서|
 
 # Technical Architecture
 ![image](https://github.com/BDP-HYVA/.github/blob/main/profile/img/Technical_Architecture.png)
