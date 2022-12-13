@@ -15,5 +15,3 @@ Restaurant review data analysis system through Hadoop-ecosystem-based fake revie
 
 # Technical Architecture
 ![image](https://github.com/BDP-HYVA/.github/blob/main/profile/img/Technical_Architecture.png)
-
-<a href="https://www.flaticon.com/free-icons/server" title="organization icons">Organization icons created by RaftelDesign - Flaticon</a>
